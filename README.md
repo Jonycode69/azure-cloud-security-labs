@@ -107,8 +107,6 @@ The assessment focused on understanding how Azure security services work individ
 
 **Key resources used:** `lgawIgnite` (Log Analytics workspace), `strgactignite` (Storage account), and `DCR1` (Data Collection Rule).
 
-**My contribution:** I completed the practical lab activities and contributed the Lab 6 steps, configuration details, and documentation to the team assessment report.
-
 **Key concepts:** Azure Monitor, Log Analytics, DCR, performance counters, telemetry, data sources, destinations, and log analysis.
 
 ### Lab 7 — Microsoft Defender for Cloud
